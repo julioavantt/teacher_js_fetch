@@ -1,0 +1,15 @@
+<script>
+	const url = "https://pokeapi.co/api/v2/pokemon/ditto"
+
+	async function getPokemoncito() {
+		try {
+			const response = await fetch(url)
+			const poke = await response.json()
+			console.log(poke)
+		} catch (err) {
+			throw new Error(err)
+		}
+	}
+
+	getPokemoncito()
+</script>
