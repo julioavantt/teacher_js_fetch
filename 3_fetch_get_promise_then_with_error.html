@@ -3,7 +3,7 @@
 
 	fetch(url)
 		.then(response => {
-			console.log({ response, status: response.status })
+			console.log({ response })
 
 			if (response.status !== 200) {
 				throw new Error("Tremendo error")

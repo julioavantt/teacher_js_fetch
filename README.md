@@ -6,24 +6,30 @@
  <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png">
 </p>
 
-
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
 [![GitHub followers](https://img.shields.io/github/followers/julioavantt?style=social)](https://github.com/julioavantt)
 
 ## Sobre mi
 
-- ⭐ Programo desde hace 14 años.
-- 📲 Me especializo en Frontend.
-- 🎥 Enseño en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
-- ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
-- 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
+-  ⭐ Programo desde hace 14 años.
+-  📲 Me especializo en Frontend.
+-  🎥 Enseño en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
+-  ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
+-  🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
+   <br>
+
+## Este repo trata sobre: El método fetch.
+
 <br>
 
+## Ejercicio para practicar:
 
-##  Este repo trata sobre: El método fetch.
-<br>
+-  Crear una API mock con mockapi.
+-  En una nueva app creada con Vite, en el componente App, hacer un get y mostrar una lista.
+-  Hacer un form y al apretar el botón hacer un fetch post a la API para crear un registro más en la lista.
+-  Qué la lista se actualice.
 
-##  ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <br>
 <p align="center">
