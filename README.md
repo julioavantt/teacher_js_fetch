@@ -18,9 +18,13 @@
 -  🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
    <br>
 
-## Este repo trata sobre: El método fetch.
+## Este repo trata sobre: El método fetch en Javascript.
 
-<br>
+-  Esta aplicación está creada con Create React App.
+-  Clonarla: git clone https://github.com/julioavantt/teacher_js_fetch.git
+-  Ir a cada archivo y ejecutar Go live (barra inferior a la derecha de Visual Studio Code), si no aparece instalar extensión Live Preview.
+-  Abrir la consola de dev tools.
+   <br>
 
 ## Ejercicio para practicar:
 
@@ -28,6 +32,23 @@
 -  En una nueva app creada con Vite, en el componente App, hacer un get y mostrar una lista.
 -  Hacer un form y al apretar el botón hacer un fetch post a la API para crear un registro más en la lista.
 -  Qué la lista se actualice.
+
+## Repos y videos útiles.
+
+-  [Cómo instalar Vite](https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride)
+-  [React createElement](https://github.com/julioavantt/teacher_react_create_element)
+-  [React JSX](https://github.com/julioavantt/teacher_react_jsx_basic)
+-  [React components](https://github.com/julioavantt/teacher_react_components)
+-  [React children](https://github.com/julioavantt/teacher_react_children)
+-  [React useRef](https://github.com/julioavantt/teacher_react_useref)
+-  [Javascript efectos secundarios](https://github.com/julioavantt/teacher_js_side_effects)
+-  [React useEffect](https://github.com/julioavantt/teacher_react_useeffect)
+-  [Javascript Promises](https://github.com/julioavantt/teacher_js_promises)
+-  [Javascript .map](https://github.com/julioavantt/teacher_js_map)
+-  [React .map](https://github.com/julioavantt/teacher_react_map)
+-  [Javascript .fetch](https://github.com/julioavantt/teacher_js_fetch)
+-  [React .fetch](https://github.com/julioavantt/teacher_react_fetch)
+   <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
